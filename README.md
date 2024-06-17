@@ -17,6 +17,10 @@
 
 - ⚡ Fun fact **I can be wild when it comes to creativity and design ideas**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/cedrictheveneau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cedrictheveneau" height="30" width="40" /></a>
