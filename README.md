@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Web and Accessibility](https://medium.com/@wrgrtbc/web-and-accessibility-654b547b51d2?source=rss-8ad42b3eea89------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
