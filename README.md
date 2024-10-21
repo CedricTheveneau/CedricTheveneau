@@ -21,6 +21,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s outage of June 4th](https://medium.com/@wrgrtbc/panne-dopenai-du-4-juin-d91290187af1?source=rss-8ad42b3eea89------2)
+- [Web and Accessibility](https://medium.com/@wrgrtbc/web-and-accessibility-654b547b51d2?source=rss-8ad42b3eea89------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
